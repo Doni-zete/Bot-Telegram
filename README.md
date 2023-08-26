@@ -11,6 +11,7 @@ Code developed in Python with The BotFather
 3. Python
 4. Vs code
 5. [Deploy on render](https://render.com/)
+6. Created bot user @Sorveteria_Donilicia_bot
 
 ## Installation
 
