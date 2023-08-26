@@ -31,49 +31,49 @@ do produto selecionado!
 @bot.message_handler(commands=["Sorvete_Morango"])
 def Sorvete_Morango(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete1.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete1.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_Amendoim"])
 def Sorvete_Amendoim(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete2.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete2.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_com_Acai"])
 def Sorvete_com_Acai(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete3.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete3.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_Acai"])
 def Sorvete_Acai(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete4.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete4.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_com_Morango"])
 def Sorvete_com_Morango(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete5.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete5.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_Chocolate"])
 def Sorvete_Chocolate(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete6.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete6.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_pedaco_Morango"])
 def Sorvete_pedaco_Morango(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete7.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete7.png', 'rb'))
 
 
 @bot.message_handler(commands=["Sorvete_Morango_com_Acai"])
 def Sorvete_Morango_com_Acai(mensagem):
     bot.send_photo(mensagem.chat.id, photo=open(
-        '../python-bot-donilicia/assets/copo-sorvete8.png', 'rb'))
+        'https://github.com/Doni-zete/Bot-Telegram/blob/main/assets/copo-sorvete8.png', 'rb'))
 
 
 @bot.message_handler(commands=["Voltar"])
